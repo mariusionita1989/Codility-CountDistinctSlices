@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-CountDistinctSlices", "Codility-CountDistinctSlices\Codility-CountDistinctSlices.csproj", "{B318C002-D9B3-43F5-AB22-300E4D0E1E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-CountDistinctSlicesTests", "Codility-CountDistinctSlicesTests\Codility-CountDistinctSlicesTests.csproj", "{1231F3C3-F2C0-4D83-A270-0FAE7D459612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B318C002-D9B3-43F5-AB22-300E4D0E1E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B318C002-D9B3-43F5-AB22-300E4D0E1E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B318C002-D9B3-43F5-AB22-300E4D0E1E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B318C002-D9B3-43F5-AB22-300E4D0E1E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1231F3C3-F2C0-4D83-A270-0FAE7D459612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1231F3C3-F2C0-4D83-A270-0FAE7D459612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1231F3C3-F2C0-4D83-A270-0FAE7D459612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1231F3C3-F2C0-4D83-A270-0FAE7D459612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B48432-52C6-4F56-9E3E-B8579B1BDB5A}
+	EndGlobalSection
+EndGlobal
